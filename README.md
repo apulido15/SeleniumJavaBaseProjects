@@ -1,4 +1,4 @@
-# SeleniumJavaBaseProJects
+# SeleniumJavaBaseProjects
 
 Repositorio base para proyectos de automatización de pruebas con **Selenium en Java**.  
 Este proyecto sirve como **framework inicial** con buenas prácticas y herramientas clave para crear suites de pruebas mantenibles y escalables.
